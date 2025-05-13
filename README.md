@@ -46,7 +46,7 @@ The goal was to progressively detect threats following the **Pyramid of Pain** m
 <h2>📸 Screenshots:</h2>
 
 > Uploads `/screenshots`
-![Flag 1](./screenshots/flag1.png)
+![Flag 1](https://github.com/Jaysolex/PicoSecure-Threat-Simulation/blob/main/screenshots/%20flag%201.png)
 ![Flag 2](./screenshots/flag2.png)
 ![Flag 3](./screenshots/flag3.png)
 ![Flag 4](./screenshots/flag4.png)
